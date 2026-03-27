@@ -1,0 +1,44 @@
+[
+  {
+    "id": "et_prime",
+    "name": "ET Prime",
+    "tags": ["news", "analysis", "investor", "professional", "wealth building", "intermediate", "expert"],
+    "description": "In-depth financial journalism and exclusive market analysis",
+    "url": "https://etprime.economictimes.com"
+  },
+  {
+    "id": "et_markets",
+    "name": "ET Markets",
+    "tags": ["trading", "stocks", "mutual_funds", "investor", "portfolio", "wealth building", "intermediate"],
+    "description": "Real-time market data, stock tracking, and portfolio tools",
+    "url": "https://etmarkets.com"
+  },
+  {
+    "id": "et_masterclass",
+    "name": "ET Masterclasses",
+    "tags": ["learning", "beginner", "student", "upskilling", "courses", "finance basics"],
+    "description": "Expert-led courses on finance, investing, and business strategy",
+    "url": "https://economictimes.com/masterclass"
+  },
+  {
+    "id": "et_wealth_summit",
+    "name": "ET Wealth Summit",
+    "tags": ["networking", "events", "high_net_worth", "entrepreneur", "professional", "expert"],
+    "description": "Exclusive wealth management events and expert networking summits",
+    "url": "https://economictimes.com/wealth"
+  },
+  {
+    "id": "et_rise",
+    "name": "ET Rise",
+    "tags": ["entrepreneur", "startup", "business", "sme", "networking", "growth"],
+    "description": "Platform for entrepreneurs and SMEs to grow their business",
+    "url": "https://etrise.com"
+  },
+  {
+    "id": "et_now",
+    "name": "ET Now",
+    "tags": ["news", "live", "markets", "tv", "investor", "trading"],
+    "description": "Live financial news channel with real-time market commentary",
+    "url": "https://etnow.com"
+  }
+]
